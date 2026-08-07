@@ -1,0 +1,11 @@
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\bin\Debug\BLL.dll
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\bin\Debug\BLL.pdb
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\bin\Debug\DAL.dll
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\bin\Debug\Entities.dll
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\bin\Debug\DAL.pdb
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\bin\Debug\Entities.pdb
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\obj\Debug\BLL.dll
+C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\BLL\obj\Debug\BLL.pdb
