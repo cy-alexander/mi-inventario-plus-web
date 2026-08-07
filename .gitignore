@@ -1,5 +1,9 @@
-.vs
-bin
-obj
-.cache
-.log
+.vs/
+bin/
+obj/
+
+*.cache
+*.log
+
+*.user
+*.suo

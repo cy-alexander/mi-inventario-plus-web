@@ -1,9 +1,0 @@
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\bin\Debug\DAL.dll
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\bin\Debug\DAL.pdb
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\bin\Debug\Entities.dll
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\bin\Debug\Entities.pdb
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\obj\Debug\DAL.csproj.Up2Date
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\obj\Debug\DAL.dll
-C:\.cosasAlex\.github-proyects\mi-inventario-plus-web\DAL\obj\Debug\DAL.pdb
